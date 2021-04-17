@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "V:/AN3/SSC/rad_patrata/rad_patrata.srcs/sources_1/new/main.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'main'
+INFO: [VRFC 10-163] Analyzing VHDL file "V:/AN3/SSC/rad_patrata/rad_patrata.srcs/sim_1/new/testbench.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Testbench'
